@@ -24,7 +24,7 @@
 
 ## Demo Link
 
-  + [Netlify demo link]()
+  + [Netlify demo link](https://react-axios-task-shezi1.netlify.app/)
 
 
 # React + Vite
